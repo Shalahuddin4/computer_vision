@@ -1,0 +1,2997 @@
+Gawang Kanan: 2.13 m
+Precision: 0.5
+FPS: 55.5556
+Gawang Kanan: 2.23 m
+Precision: 0.666667
+FPS: 58.8235
+Gawang Kanan: 2.17 m
+Precision: 0.75
+FPS: 58.8235
+Gawang Kanan: 2.18 m
+Precision: 0.8
+FPS: 45.4545
+Gawang Kanan: 2.19 m
+Precision: 0.8
+FPS: 55.5556
+Gawang Kanan: 2.19 m
+Precision: 0.8
+FPS: 47.619
+Gawang Kanan: 2.19 m
+Precision: 0.833333
+FPS: 66.6667
+Gawang Kanan: 2.17 m
+Precision: 0.857143
+FPS: 66.6667
+Gawang Kanan: 2.16 m
+Precision: 0.875
+FPS: 58.8235
+Gawang Kanan: 2.14 m
+Precision: 0.875
+FPS: 62.5
+Gawang Kanan: 2.14 m
+Precision: 0.875
+FPS: 58.8235
+Gawang Kanan: 2.14 m
+Precision: 0.875
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.888889
+FPS: 52.6316
+Gawang Kanan: 2.16 m
+Precision: 0.9
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.909091
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.916667
+FPS: 76.9231
+Gawang Kanan: 2.18 m
+Precision: 0.916667
+FPS: 58.8235
+Gawang Kanan: 2.18 m
+Precision: 0.923077
+FPS: 66.6667
+Gawang Kanan: 2.11 m
+Precision: 0.928571
+FPS: 58.8235
+Gawang Kanan: 2.21 m
+Precision: 0.933333
+FPS: 41.6667
+Gawang Kanan: 2.11 m
+Precision: 0.9375
+FPS: 66.6667
+Gawang Kanan: 2.09 m
+Precision: 0.941176
+FPS: 52.6316
+Gawang Kanan: 2.14 m
+Precision: 0.944444
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.947368
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.95
+FPS: 52.6316
+Gawang Kanan: 2.20 m
+Precision: 0.952381
+FPS: 71.4286
+Gawang Kanan: 2.13 m
+Precision: 0.954545
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.956522
+FPS: 66.6667
+Gawang Kanan: 2.10 m
+Precision: 0.958333
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.958333
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.958333
+FPS: 52.6316
+Gawang Kanan: 2.11 m
+Precision: 0.958333
+FPS: 43.4783
+Gawang Kanan: 2.11 m
+Precision: 0.96
+FPS: 50
+Gawang Kanan: 2.10 m
+Precision: 0.961538
+FPS: 34.4828
+Gawang Kanan: 2.13 m
+Precision: 0.962963
+FPS: 40
+Gawang Kanan: 2.10 m
+Precision: 0.964286
+FPS: 35.7143
+Gawang Kanan: 2.07 m
+Precision: 0.964286
+FPS: 43.4783
+Gawang Kanan: 2.07 m
+Precision: 0.964286
+FPS: 34.4828
+Gawang Kanan: 2.07 m
+Precision: 0.965517
+FPS: 35.7143
+Gawang Kanan: 2.08 m
+Precision: 0.966667
+FPS: 35.7143
+Gawang Kanan: 2.20 m
+Precision: 0.967742
+FPS: 55.5556
+Gawang Kanan: 2.18 m
+Precision: 0.96875
+FPS: 47.619
+Gawang Kanan: 2.11 m
+Precision: 0.96875
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.96875
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.96875
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.969697
+FPS: 62.5
+Gawang Kanan: 2.12 m
+Precision: 0.969697
+FPS: 58.8235
+Gawang Kanan: 2.12 m
+Precision: 0.970588
+FPS: 62.5
+Gawang Kanan: 2.12 m
+Precision: 0.971429
+FPS: 50
+Gawang Kanan: 2.12 m
+Precision: 0.972222
+FPS: 45.4545
+Gawang Kanan: 2.12 m
+Precision: 0.972222
+FPS: 58.8235
+Gawang Kanan: 2.12 m
+Precision: 0.972222
+FPS: 58.8235
+Gawang Kanan: 2.12 m
+Precision: 0.972973
+FPS: 55.5556
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 55.5556
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 76.9231
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 52.6316
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 66.6667
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 55.5556
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 71.4286
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 55.5556
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 52.6316
+Gawang Kanan: 2.09 m
+Precision: 0.972973
+FPS: 47.619
+Gawang Kanan: 2.09 m
+Precision: 0.973684
+FPS: 66.6667
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 66.6667
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 52.6316
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 71.4286
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.973684
+FPS: 71.4286
+Gawang Kanan: 2.11 m
+Precision: 0.974359
+FPS: 52.6316
+Gawang Kanan: 2.14 m
+Precision: 0.975
+FPS: 58.8235
+Gawang Kanan: 2.07 m
+Precision: 0.975
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.975
+FPS: 55.5556
+Gawang Kanan: 2.07 m
+Precision: 0.975
+FPS: 52.6316
+Gawang Kanan: 2.07 m
+Precision: 0.975
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.975
+FPS: 58.8235
+Gawang Kanan: 2.07 m
+Precision: 0.97561
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.97561
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.97561
+FPS: 55.5556
+Gawang Kanan: 2.07 m
+Precision: 0.97561
+FPS: 58.8235
+Gawang Kanan: 2.07 m
+Precision: 0.97619
+FPS: 52.6316
+Gawang Kanan: 2.07 m
+Precision: 0.976744
+FPS: 50
+Gawang Kanan: 2.06 m
+Precision: 0.976744
+FPS: 45.4545
+Gawang Kanan: 2.06 m
+Precision: 0.976744
+FPS: 52.6316
+Gawang Kanan: 2.06 m
+Precision: 0.977273
+FPS: 52.6316
+Gawang Kanan: 2.01 m
+Precision: 0.977778
+FPS: 55.5556
+Gawang Kanan: 1.87 m
+Precision: 0.978261
+FPS: 52.6316
+Gawang Kanan: 1.85 m
+Precision: 0.978261
+FPS: 55.5556
+Gawang Kanan: 1.85 m
+Precision: 0.978723
+FPS: 58.8235
+Gawang Kanan: 1.82 m
+Precision: 0.979167
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.959184
+FPS: 66.6667
+Gawang Kanan: 1.75 m
+Precision: 0.96
+FPS: 62.5
+Gawang Kanan: 1.80 m
+Precision: 0.960784
+FPS: 62.5
+Gawang Kanan: 1.85 m
+Precision: 0.960784
+FPS: 52.6316
+Gawang Kanan: 1.85 m
+Precision: 0.961538
+FPS: 52.6316
+Gawang Kanan: 1.85 m
+Precision: 0.962264
+FPS: 58.8235
+Gawang Kanan: 1.85 m
+Precision: 0.962963
+FPS: 50
+Gawang Kanan: 1.97 m
+Precision: 0.963636
+FPS: 55.5556
+Gawang Kanan: 1.91 m
+Precision: 0.964286
+FPS: 50
+Gawang Kanan: 1.94 m
+Precision: 0.964286
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.964912
+FPS: 58.8235
+Gawang Kanan: 1.91 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 1.89 m
+Precision: 0.965517
+FPS: 55.5556
+Gawang Kanan: 1.89 m
+Precision: 0.965517
+FPS: 62.5
+Gawang Kanan: 1.89 m
+Precision: 0.965517
+FPS: 62.5
+Gawang Kanan: 1.89 m
+Precision: 0.965517
+FPS: 71.4286
+Gawang Kanan: 1.89 m
+Precision: 0.965517
+FPS: 41.6667
+Gawang Kanan: 1.89 m
+Precision: 0.966102
+FPS: 41.6667
+Gawang Kanan: 1.90 m
+Precision: 0.966102
+FPS: 38.4615
+Gawang Kanan: 1.90 m
+Precision: 0.966667
+FPS: 52.6316
+Gawang Kanan: 1.93 m
+Precision: 0.967213
+FPS: 52.6316
+Gawang Kanan: 1.93 m
+Precision: 0.967742
+FPS: 52.6316
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 76.9231
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 55.5556
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 66.6667
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 62.5
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 58.8235
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 55.5556
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 52.6316
+Gawang Kanan: 1.92 m
+Precision: 0.967742
+FPS: 58.8235
+Gawang Kanan: 1.92 m
+Precision: 0.968254
+FPS: 62.5
+Gawang Kanan: 1.91 m
+Precision: 0.968254
+FPS: 66.6667
+Gawang Kanan: 1.91 m
+Precision: 0.968254
+FPS: 55.5556
+Gawang Kanan: 1.91 m
+Precision: 0.96875
+FPS: 55.5556
+Gawang Kanan: 1.91 m
+Precision: 0.969231
+FPS: 76.9231
+Gawang Kanan: 1.92 m
+Precision: 0.969697
+FPS: 62.5
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 58.8235
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 83.3333
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 62.5
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 66.6667
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 71.4286
+Gawang Kanan: 1.94 m
+Precision: 0.969697
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.970149
+FPS: 62.5
+Gawang Kanan: 2.01 m
+Precision: 0.970588
+FPS: 52.6316
+Gawang Kanan: 1.98 m
+Precision: 0.970588
+FPS: 58.8235
+Gawang Kanan: 1.98 m
+Precision: 0.971014
+FPS: 52.6316
+Gawang Kanan: 1.98 m
+Precision: 0.971429
+FPS: 58.8235
+Gawang Kanan: 1.93 m
+Precision: 0.971831
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.972222
+FPS: 52.6316
+Gawang Kanan: 1.96 m
+Precision: 0.972603
+FPS: 50
+Gawang Kanan: 1.93 m
+Precision: 0.972973
+FPS: 52.6316
+Gawang Kanan: 1.93 m
+Precision: 0.972973
+FPS: 55.5556
+Gawang Kanan: 1.93 m
+Precision: 0.973333
+FPS: 52.6316
+Gawang Kanan: 1.94 m
+Precision: 0.973684
+FPS: 58.8235
+Gawang Kanan: 1.94 m
+Precision: 0.974026
+FPS: 47.619
+Gawang Kanan: 1.93 m
+Precision: 0.974359
+FPS: 35.7143
+Gawang Kanan: 1.93 m
+Precision: 0.974684
+FPS: 50
+Gawang Kanan: 1.95 m
+Precision: 0.975
+FPS: 55.5556
+Gawang Kanan: 1.93 m
+Precision: 0.975309
+FPS: 40
+Gawang Kanan: 1.97 m
+Precision: 0.97561
+FPS: 62.5
+Gawang Kanan: 1.89 m
+Precision: 0.97561
+FPS: 71.4286
+Gawang Kanan: 1.89 m
+Precision: 0.97561
+FPS: 52.6316
+Gawang Kanan: 1.89 m
+Precision: 0.975904
+FPS: 66.6667
+Gawang Kanan: 1.95 m
+Precision: 0.975904
+FPS: 58.8235
+Gawang Kanan: 1.95 m
+Precision: 0.97619
+FPS: 58.8235
+Gawang Kanan: 1.93 m
+Precision: 0.976471
+FPS: 50
+Gawang Kanan: 1.94 m
+Precision: 0.976744
+FPS: 50
+Gawang Kanan: 1.94 m
+Precision: 0.977011
+FPS: 62.5
+Gawang Kanan: 1.95 m
+Precision: 0.977528
+FPS: 55.5556
+Gawang Kanan: 2.16 m
+Precision: 0.977778
+FPS: 50
+Gawang Kanan: 1.96 m
+Precision: 0.978022
+FPS: 50
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 55.5556
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 62.5
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 62.5
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 55.5556
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 58.8235
+Gawang Kanan: 2.04 m
+Precision: 0.978022
+FPS: 52.6316
+Gawang Kanan: 2.04 m
+Precision: 0.978261
+FPS: 58.8235
+Gawang Kanan: 2.05 m
+Precision: 0.978261
+FPS: 58.8235
+Gawang Kanan: 2.05 m
+Precision: 0.978261
+FPS: 55.5556
+Gawang Kanan: 2.05 m
+Precision: 0.978495
+FPS: 55.5556
+Gawang Kanan: 2.07 m
+Precision: 0.978723
+FPS: 41.6667
+Gawang Kanan: 2.17 m
+Precision: 0.978947
+FPS: 47.619
+Gawang Kanan: 2.26 m
+Precision: 0.979167
+FPS: 66.6667
+Gawang Kanan: 2.22 m
+Precision: 0.979592
+FPS: 71.4286
+Gawang Kanan: 2.28 m
+Precision: 0.979798
+FPS: 47.619
+Gawang Kanan: 2.17 m
+Precision: 0.980198
+FPS: 76.9231
+Gawang Kanan: 2.28 m
+Precision: 0.980392
+FPS: 71.4286
+Gawang Kanan: 2.18 m
+Precision: 0.980583
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.980583
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.980769
+FPS: 58.8235
+Gawang Kanan: 2.15 m
+Precision: 0.980952
+FPS: 62.5
+Gawang Kanan: 2.17 m
+Precision: 0.981132
+FPS: 55.5556
+Gawang Kanan: 2.13 m
+Precision: 0.981308
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.981481
+FPS: 62.5
+Gawang Kanan: 2.05 m
+Precision: 0.981651
+FPS: 62.5
+Gawang Kanan: 2.10 m
+Precision: 0.981651
+FPS: 58.8235
+Gawang Kanan: 2.10 m
+Precision: 0.981818
+FPS: 62.5
+Gawang Kanan: 2.05 m
+Precision: 0.981982
+FPS: 55.5556
+Gawang Kanan: 2.04 m
+Precision: 0.982143
+FPS: 55.5556
+Gawang Kanan: 2.00 m
+Precision: 0.982301
+FPS: 58.8235
+Gawang Kanan: 2.01 m
+Precision: 0.982456
+FPS: 66.6667
+Gawang Kanan: 1.97 m
+Precision: 0.982456
+FPS: 58.8235
+Gawang Kanan: 1.97 m
+Precision: 0.982456
+FPS: 50
+Gawang Kanan: 1.97 m
+Precision: 0.982609
+FPS: 62.5
+Gawang Kanan: 2.06 m
+Precision: 0.982609
+FPS: 50
+Gawang Kanan: 2.06 m
+Precision: 0.982759
+FPS: 62.5
+Gawang Kanan: 2.05 m
+Precision: 0.982906
+FPS: 66.6667
+Gawang Kanan: 2.15 m
+Precision: 0.983051
+FPS: 58.8235
+Gawang Kanan: 2.09 m
+Precision: 0.983193
+FPS: 55.5556
+Gawang Kanan: 2.30 m
+Precision: 0.983193
+FPS: 66.6667
+Gawang Kanan: 2.30 m
+Precision: 0.983333
+FPS: 76.9231
+Gawang Kanan: 2.20 m
+Precision: 0.983471
+FPS: 55.5556
+Gawang Kanan: 2.19 m
+Precision: 0.983607
+FPS: 62.5
+Gawang Kanan: 2.16 m
+Precision: 0.983607
+FPS: 62.5
+Gawang Kanan: 2.16 m
+Precision: 0.98374
+FPS: 71.4286
+Gawang Kanan: 2.24 m
+Precision: 0.983871
+FPS: 58.8235
+Gawang Kanan: 2.22 m
+Precision: 0.983871
+FPS: 50
+Gawang Kanan: 2.22 m
+Precision: 0.984
+FPS: 66.6667
+Gawang Kanan: 2.22 m
+Precision: 0.984
+FPS: 62.5
+Gawang Kanan: 2.22 m
+Precision: 0.984
+FPS: 58.8235
+Gawang Kanan: 2.22 m
+Precision: 0.984127
+FPS: 55.5556
+Gawang Kanan: 2.16 m
+Precision: 0.984127
+FPS: 62.5
+Gawang Kanan: 2.16 m
+Precision: 0.984127
+FPS: 52.6316
+Gawang Kanan: 2.16 m
+Precision: 0.984252
+FPS: 66.6667
+Gawang Kanan: 2.14 m
+Precision: 0.984252
+FPS: 66.6667
+Gawang Kanan: 2.14 m
+Precision: 0.984252
+FPS: 58.8235
+Gawang Kanan: 2.14 m
+Precision: 0.984252
+FPS: 58.8235
+Gawang Kanan: 2.14 m
+Precision: 0.984252
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.984252
+FPS: 66.6667
+Gawang Kanan: 2.14 m
+Precision: 0.984375
+FPS: 58.8235
+Gawang Kanan: 2.11 m
+Precision: 0.984496
+FPS: 55.5556
+Gawang Kanan: 2.10 m
+Precision: 0.984615
+FPS: 58.8235
+Gawang Kanan: 2.05 m
+Precision: 0.984733
+FPS: 52.6316
+Gawang Kanan: 2.11 m
+Precision: 0.984848
+FPS: 50
+Gawang Kanan: 2.06 m
+Precision: 0.984848
+FPS: 66.6667
+Gawang Kanan: 2.06 m
+Precision: 0.984962
+FPS: 47.619
+Gawang Kanan: 2.04 m
+Precision: 0.985075
+FPS: 35.7143
+Gawang Kanan: 2.00 m
+Precision: 0.985185
+FPS: 47.619
+Gawang Kanan: 1.82 m
+Precision: 0.985294
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.985401
+FPS: 62.5
+Gawang Kanan: 1.85 m
+Precision: 0.985507
+FPS: 50
+Gawang Kanan: 1.87 m
+Precision: 0.985612
+FPS: 58.8235
+Gawang Kanan: 1.84 m
+Precision: 0.985714
+FPS: 62.5
+Gawang Kanan: 1.85 m
+Precision: 0.985816
+FPS: 58.8235
+Gawang Kanan: 1.85 m
+Precision: 0.986014
+FPS: 52.6316
+Gawang Kanan: 1.98 m
+Precision: 0.986111
+FPS: 52.6316
+Gawang Kanan: 1.83 m
+Precision: 0.986207
+FPS: 52.6316
+Gawang Kanan: 1.76 m
+Precision: 0.986301
+FPS: 55.5556
+Gawang Kanan: 1.79 m
+Precision: 0.986486
+FPS: 50
+Gawang Kanan: 1.98 m
+Precision: 0.986577
+FPS: 50
+Gawang Kanan: 1.91 m
+Precision: 0.980132
+FPS: 55.5556
+Gawang Kanan: 1.98 m
+Precision: 0.980263
+FPS: 58.8235
+Gawang Kanan: 1.98 m
+Precision: 0.980392
+FPS: 55.5556
+Gawang Kanan: 1.98 m
+Precision: 0.980519
+FPS: 52.6316
+Gawang Kanan: 1.76 m
+Precision: 0.974194
+FPS: 62.5
+Gawang Kanan: 1.98 m
+Precision: 0.968153
+FPS: 58.8235
+Gawang Kanan: 1.98 m
+Precision: 0.968354
+FPS: 58.8235
+Gawang Kanan: 1.84 m
+Precision: 0.968553
+FPS: 58.8235
+Gawang Kanan: 1.76 m
+Precision: 0.96875
+FPS: 55.5556
+Gawang Kanan: 1.77 m
+Precision: 0.968944
+FPS: 52.6316
+Gawang Kanan: 1.77 m
+Precision: 0.969136
+FPS: 52.6316
+Gawang Kanan: 1.76 m
+Precision: 0.969325
+FPS: 58.8235
+Gawang Kanan: 1.83 m
+Precision: 0.969512
+FPS: 50
+Gawang Kanan: 1.83 m
+Precision: 0.969697
+FPS: 52.6316
+Gawang Kanan: 1.86 m
+Precision: 0.96988
+FPS: 55.5556
+Gawang Kanan: 1.83 m
+Precision: 0.96988
+FPS: 50
+Gawang Kanan: 1.83 m
+Precision: 0.97006
+FPS: 58.8235
+Gawang Kanan: 1.84 m
+Precision: 0.970238
+FPS: 58.8235
+Gawang Kanan: 1.84 m
+Precision: 0.970414
+FPS: 52.6316
+Gawang Kanan: 1.86 m
+Precision: 0.970588
+FPS: 58.8235
+Gawang Kanan: 2.00 m
+Precision: 0.97076
+FPS: 47.619
+Gawang Kanan: 1.86 m
+Precision: 0.97076
+FPS: 58.8235
+Gawang Kanan: 1.86 m
+Precision: 0.97093
+FPS: 66.6667
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 58.8235
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 71.4286
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 58.8235
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 62.5
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 66.6667
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 58.8235
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 66.6667
+Gawang Kanan: 1.88 m
+Precision: 0.97093
+FPS: 58.8235
+Gawang Kanan: 1.88 m
+Precision: 0.971098
+FPS: 62.5
+Gawang Kanan: 1.90 m
+Precision: 0.971264
+FPS: 58.8235
+Gawang Kanan: 1.92 m
+Precision: 0.971429
+FPS: 58.8235
+Gawang Kanan: 1.94 m
+Precision: 0.971591
+FPS: 66.6667
+Gawang Kanan: 1.93 m
+Precision: 0.971751
+FPS: 55.5556
+Gawang Kanan: 1.92 m
+Precision: 0.97191
+FPS: 71.4286
+Gawang Kanan: 1.98 m
+Precision: 0.972067
+FPS: 62.5
+Gawang Kanan: 1.97 m
+Precision: 0.972067
+FPS: 71.4286
+Gawang Kanan: 1.97 m
+Precision: 0.972067
+FPS: 58.8235
+Gawang Kanan: 1.97 m
+Precision: 0.972067
+FPS: 55.5556
+Gawang Kanan: 1.97 m
+Precision: 0.972222
+FPS: 50
+Gawang Kanan: 1.97 m
+Precision: 0.972222
+FPS: 76.9231
+Gawang Kanan: 1.97 m
+Precision: 0.972376
+FPS: 62.5
+Gawang Kanan: 1.96 m
+Precision: 0.972527
+FPS: 58.8235
+Gawang Kanan: 2.00 m
+Precision: 0.972527
+FPS: 50
+Gawang Kanan: 2.00 m
+Precision: 0.972678
+FPS: 52.6316
+Gawang Kanan: 1.95 m
+Precision: 0.972678
+FPS: 58.8235
+Gawang Kanan: 1.95 m
+Precision: 0.972826
+FPS: 55.5556
+Gawang Kanan: 1.95 m
+Precision: 0.972973
+FPS: 62.5
+Gawang Kanan: 1.98 m
+Precision: 0.973118
+FPS: 55.5556
+Gawang Kanan: 1.98 m
+Precision: 0.973262
+FPS: 62.5
+Gawang Kanan: 2.03 m
+Precision: 0.973262
+FPS: 58.8235
+Gawang Kanan: 2.03 m
+Precision: 0.973404
+FPS: 55.5556
+Gawang Kanan: 2.08 m
+Precision: 0.973545
+FPS: 52.6316
+Gawang Kanan: 2.10 m
+Precision: 0.973684
+FPS: 50
+Gawang Kanan: 2.11 m
+Precision: 0.973822
+FPS: 47.619
+Gawang Kanan: 2.17 m
+Precision: 0.973958
+FPS: 52.6316
+Gawang Kanan: 2.15 m
+Precision: 0.974093
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.974227
+FPS: 52.6316
+Gawang Kanan: 2.36 m
+Precision: 0.974359
+FPS: 50
+Gawang Kanan: 2.46 m
+Precision: 0.974359
+FPS: 55.5556
+Gawang Kanan: 2.46 m
+Precision: 0.97449
+FPS: 47.619
+Gawang Kanan: 2.42 m
+Precision: 0.97449
+FPS: 58.8235
+Gawang Kanan: 2.42 m
+Precision: 0.974619
+FPS: 52.6316
+Gawang Kanan: 2.42 m
+Precision: 0.974619
+FPS: 50
+Gawang Kanan: 2.42 m
+Precision: 0.974747
+FPS: 58.8235
+Gawang Kanan: 2.41 m
+Precision: 0.974747
+FPS: 62.5
+Gawang Kanan: 2.41 m
+Precision: 0.974874
+FPS: 55.5556
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 66.6667
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 66.6667
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 55.5556
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 50
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 55.5556
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 66.6667
+Gawang Kanan: 2.43 m
+Precision: 0.974874
+FPS: 47.619
+Gawang Kanan: 2.43 m
+Precision: 0.975
+FPS: 62.5
+Gawang Kanan: 2.38 m
+Precision: 0.975124
+FPS: 52.6316
+Gawang Kanan: 2.37 m
+Precision: 0.975248
+FPS: 45.4545
+Gawang Kanan: 2.29 m
+Precision: 0.975369
+FPS: 43.4783
+Gawang Kanan: 2.30 m
+Precision: 0.970732
+FPS: 43.4783
+Gawang Kanan: 2.36 m
+Precision: 0.970874
+FPS: 47.619
+Gawang Kanan: 2.37 m
+Precision: 0.966346
+FPS: 43.4783
+Gawang Kanan: 2.35 m
+Precision: 0.966507
+FPS: 43.4783
+Gawang Kanan: 2.29 m
+Precision: 0.966667
+FPS: 50
+Gawang Kanan: 2.28 m
+Precision: 0.966825
+FPS: 47.619
+Gawang Kanan: 2.33 m
+Precision: 0.966981
+FPS: 45.4545
+Gawang Kanan: 2.41 m
+Precision: 0.967136
+FPS: 50
+Gawang Kanan: 2.41 m
+Precision: 0.962791
+FPS: 47.619
+Gawang Kanan: 2.34 m
+Precision: 0.962963
+FPS: 55.5556
+Gawang Kanan: 2.32 m
+Precision: 0.963134
+FPS: 47.619
+Gawang Kanan: 2.29 m
+Precision: 0.963303
+FPS: 47.619
+Gawang Kanan: 2.40 m
+Precision: 0.96347
+FPS: 47.619
+Gawang Kanan: 2.32 m
+Precision: 0.963636
+FPS: 45.4545
+Gawang Kanan: 2.38 m
+Precision: 0.963801
+FPS: 45.4545
+Gawang Kanan: 2.31 m
+Precision: 0.963964
+FPS: 58.8235
+Gawang Kanan: 2.37 m
+Precision: 0.963964
+FPS: 55.5556
+Gawang Kanan: 2.37 m
+Precision: 0.963964
+FPS: 55.5556
+Gawang Kanan: 2.37 m
+Precision: 0.963964
+FPS: 66.6667
+Gawang Kanan: 2.37 m
+Precision: 0.963964
+FPS: 58.8235
+Gawang Kanan: 2.37 m
+Precision: 0.963964
+FPS: 58.8235
+Gawang Kanan: 2.37 m
+Precision: 0.964126
+FPS: 58.8235
+Gawang Kanan: 2.40 m
+Precision: 0.964286
+FPS: 58.8235
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 58.8235
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 52.6316
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 62.5
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 55.5556
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 55.5556
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 50
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 58.8235
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 52.6316
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 62.5
+Gawang Kanan: 2.32 m
+Precision: 0.964286
+FPS: 62.5
+Gawang Kanan: 2.32 m
+Precision: 0.964444
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.964602
+FPS: 58.8235
+Gawang Kanan: 2.28 m
+Precision: 0.964602
+FPS: 50
+Gawang Kanan: 2.28 m
+Precision: 0.964758
+FPS: 66.6667
+Gawang Kanan: 2.25 m
+Precision: 0.964758
+FPS: 58.8235
+Gawang Kanan: 2.25 m
+Precision: 0.964758
+FPS: 76.9231
+Gawang Kanan: 2.25 m
+Precision: 0.964912
+FPS: 55.5556
+Gawang Kanan: 2.18 m
+Precision: 0.964912
+FPS: 66.6667
+Gawang Kanan: 2.18 m
+Precision: 0.965066
+FPS: 66.6667
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 55.5556
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 55.5556
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 66.6667
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 62.5
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 71.4286
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 58.8235
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 58.8235
+Gawang Kanan: 2.12 m
+Precision: 0.965066
+FPS: 62.5
+Gawang Kanan: 2.12 m
+Precision: 0.965217
+FPS: 62.5
+Gawang Kanan: 2.17 m
+Precision: 0.965217
+FPS: 50
+Gawang Kanan: 2.17 m
+Precision: 0.965368
+FPS: 55.5556
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 55.5556
+Gawang Kanan: 2.18 m
+Precision: 0.965517
+FPS: 55.5556
+Gawang Kanan: 2.18 m
+Precision: 0.965517
+FPS: 52.6316
+Gawang Kanan: 2.18 m
+Precision: 0.965517
+FPS: 62.5
+Gawang Kanan: 2.18 m
+Precision: 0.965517
+FPS: 52.6316
+Gawang Kanan: 2.18 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 2.18 m
+Precision: 0.965665
+FPS: 52.6316
+Gawang Kanan: 2.17 m
+Precision: 0.965812
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.965812
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.965957
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.965957
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.965957
+FPS: 66.6667
+Gawang Kanan: 2.20 m
+Precision: 0.966102
+FPS: 58.8235
+Gawang Kanan: 2.25 m
+Precision: 0.966102
+FPS: 43.4783
+Gawang Kanan: 2.25 m
+Precision: 0.966102
+FPS: 76.9231
+Gawang Kanan: 2.25 m
+Precision: 0.966245
+FPS: 76.9231
+Gawang Kanan: 2.33 m
+Precision: 0.966387
+FPS: 71.4286
+Gawang Kanan: 2.29 m
+Precision: 0.966387
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.966387
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.966527
+FPS: 52.6316
+Gawang Kanan: 2.22 m
+Precision: 0.966527
+FPS: 55.5556
+Gawang Kanan: 2.22 m
+Precision: 0.966527
+FPS: 58.8235
+Gawang Kanan: 2.22 m
+Precision: 0.966667
+FPS: 52.6316
+Gawang Kanan: 2.34 m
+Precision: 0.966805
+FPS: 62.5
+Gawang Kanan: 2.23 m
+Precision: 0.966942
+FPS: 58.8235
+Gawang Kanan: 2.24 m
+Precision: 0.967213
+FPS: 58.8235
+Gawang Kanan: 2.35 m
+Precision: 0.967213
+FPS: 62.5
+Gawang Kanan: 2.35 m
+Precision: 0.967347
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.96748
+FPS: 71.4286
+Gawang Kanan: 2.29 m
+Precision: 0.967611
+FPS: 66.6667
+Gawang Kanan: 2.27 m
+Precision: 0.967611
+FPS: 62.5
+Gawang Kanan: 2.27 m
+Precision: 0.967611
+FPS: 90.9091
+Gawang Kanan: 2.27 m
+Precision: 0.967742
+FPS: 55.5556
+Gawang Kanan: 2.22 m
+Precision: 0.967871
+FPS: 58.8235
+Gawang Kanan: 2.34 m
+Precision: 0.968
+FPS: 66.6667
+Gawang Kanan: 2.28 m
+Precision: 0.968
+FPS: 52.6316
+Gawang Kanan: 2.28 m
+Precision: 0.968127
+FPS: 66.6667
+Gawang Kanan: 2.24 m
+Precision: 0.968127
+FPS: 62.5
+Gawang Kanan: 2.24 m
+Precision: 0.968254
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.968379
+FPS: 58.8235
+Gawang Kanan: 2.24 m
+Precision: 0.968379
+FPS: 55.5556
+Gawang Kanan: 2.24 m
+Precision: 0.968504
+FPS: 45.4545
+Gawang Kanan: 2.28 m
+Precision: 0.968627
+FPS: 62.5
+Gawang Kanan: 2.28 m
+Precision: 0.96875
+FPS: 58.8235
+Gawang Kanan: 2.33 m
+Precision: 0.96875
+FPS: 55.5556
+Gawang Kanan: 2.33 m
+Precision: 0.96875
+FPS: 71.4286
+Gawang Kanan: 2.33 m
+Precision: 0.96875
+FPS: 52.6316
+Gawang Kanan: 2.33 m
+Precision: 0.96875
+FPS: 58.8235
+Gawang Kanan: 2.33 m
+Precision: 0.968992
+FPS: 52.6316
+Gawang Kanan: 2.57 m
+Precision: 0.965385
+FPS: 50
+Gawang Kanan: 2.17 m
+Precision: 0.965517
+FPS: 50
+Gawang Kanan: 2.34 m
+Precision: 0.965649
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.965649
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.965779
+FPS: 47.619
+Gawang Kanan: 2.27 m
+Precision: 0.965909
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.965909
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.965909
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.966165
+FPS: 47.619
+Gawang Kanan: 2.28 m
+Precision: 0.966292
+FPS: 50
+Gawang Kanan: 2.57 m
+Precision: 0.966543
+FPS: 52.6316
+Gawang Kanan: 2.59 m
+Precision: 0.962963
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 66.6667
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 50
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 71.4286
+Gawang Kanan: 2.29 m
+Precision: 0.962963
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.9631
+FPS: 62.5
+Gawang Kanan: 2.30 m
+Precision: 0.963235
+FPS: 58.8235
+Gawang Kanan: 2.31 m
+Precision: 0.963235
+FPS: 52.6316
+Gawang Kanan: 2.31 m
+Precision: 0.963235
+FPS: 62.5
+Gawang Kanan: 2.31 m
+Precision: 0.96337
+FPS: 71.4286
+Gawang Kanan: 2.29 m
+Precision: 0.96337
+FPS: 55.5556
+Gawang Kanan: 2.29 m
+Precision: 0.963504
+FPS: 58.8235
+Gawang Kanan: 2.35 m
+Precision: 0.963504
+FPS: 50
+Gawang Kanan: 2.35 m
+Precision: 0.963636
+FPS: 47.619
+Gawang Kanan: 2.29 m
+Precision: 0.963768
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.963899
+FPS: 62.5
+Gawang Kanan: 2.30 m
+Precision: 0.963899
+FPS: 55.5556
+Gawang Kanan: 2.30 m
+Precision: 0.963899
+FPS: 55.5556
+Gawang Kanan: 2.30 m
+Precision: 0.963899
+FPS: 76.9231
+Gawang Kanan: 2.30 m
+Precision: 0.964029
+FPS: 62.5
+Gawang Kanan: 2.45 m
+Precision: 0.964158
+FPS: 55.5556
+Gawang Kanan: 2.52 m
+Precision: 0.964286
+FPS: 55.5556
+Gawang Kanan: 2.48 m
+Precision: 0.964286
+FPS: 55.5556
+Gawang Kanan: 2.48 m
+Precision: 0.964413
+FPS: 55.5556
+Gawang Kanan: 2.67 m
+Precision: 0.964539
+FPS: 58.8235
+Gawang Kanan: 2.65 m
+Precision: 0.964664
+FPS: 55.5556
+Gawang Kanan: 2.64 m
+Precision: 0.964664
+FPS: 58.8235
+Gawang Kanan: 2.64 m
+Precision: 0.964789
+FPS: 47.619
+Gawang Kanan: 2.63 m
+Precision: 0.964912
+FPS: 55.5556
+Gawang Kanan: 2.66 m
+Precision: 0.965035
+FPS: 52.6316
+Gawang Kanan: 2.63 m
+Precision: 0.965035
+FPS: 58.8235
+Gawang Kanan: 2.63 m
+Precision: 0.965157
+FPS: 62.5
+Gawang Kanan: 2.62 m
+Precision: 0.965278
+FPS: 50
+Gawang Kanan: 2.64 m
+Precision: 0.965278
+FPS: 58.8235
+Gawang Kanan: 2.64 m
+Precision: 0.965398
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.965753
+FPS: 52.6316
+Gawang Kanan: 2.83 m
+Precision: 0.96587
+FPS: 62.5
+Gawang Kanan: 2.83 m
+Precision: 0.965986
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.966102
+FPS: 47.619
+Gawang Kanan: 2.83 m
+Precision: 0.966216
+FPS: 27.027
+Gawang Kanan: 2.83 m
+Precision: 0.96633
+FPS: 30.303
+Gawang Kanan: 2.83 m
+Precision: 0.966443
+FPS: 27.7778
+Gawang Kanan: 2.83 m
+Precision: 0.966555
+FPS: 41.6667
+Gawang Kanan: 2.83 m
+Precision: 0.966667
+FPS: 35.7143
+Gawang Kanan: 2.83 m
+Precision: 0.966887
+FPS: 18.8679
+Gawang Kanan: 2.83 m
+Precision: 0.966997
+FPS: 30.303
+Gawang Kanan: 2.83 m
+Precision: 0.967213
+FPS: 45.4545
+Gawang Kanan: 2.83 m
+Precision: 0.967427
+FPS: 50
+Gawang Kanan: 2.83 m
+Precision: 0.967532
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.967638
+FPS: 52.6316
+Gawang Kanan: 2.83 m
+Precision: 0.967846
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.967949
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.964968
+FPS: 50
+Gawang Kanan: 2.83 m
+Precision: 0.965079
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.9653
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.965409
+FPS: 62.5
+Gawang Kanan: 2.83 m
+Precision: 0.965625
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.965839
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.965944
+FPS: 50
+Gawang Kanan: 2.83 m
+Precision: 0.965944
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.966049
+FPS: 55.5556
+Gawang Kanan: 2.83 m
+Precision: 0.966154
+FPS: 62.5
+Gawang Kanan: 2.83 m
+Precision: 0.966258
+FPS: 58.8235
+Gawang Kanan: 2.83 m
+Precision: 0.966361
+FPS: 66.6667
+Gawang Kanan: 2.83 m
+Precision: 0.966463
+FPS: 58.8235
+Gawang Kanan: 2.87 m
+Precision: 0.966565
+FPS: 58.8235
+Gawang Kanan: 2.72 m
+Precision: 0.966667
+FPS: 58.8235
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 43.4783
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 62.5
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 52.6316
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 58.8235
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 55.5556
+Gawang Kanan: 2.67 m
+Precision: 0.966667
+FPS: 71.4286
+Gawang Kanan: 2.67 m
+Precision: 0.963746
+FPS: 62.5
+Gawang Kanan: 2.20 m
+Precision: 0.963855
+FPS: 58.8235
+Gawang Kanan: 2.16 m
+Precision: 0.963964
+FPS: 52.6316
+Gawang Kanan: 2.13 m
+Precision: 0.964072
+FPS: 52.6316
+Gawang Kanan: 2.13 m
+Precision: 0.964179
+FPS: 50
+Gawang Kanan: 2.08 m
+Precision: 0.964286
+FPS: 43.4783
+Gawang Kanan: 2.04 m
+Precision: 0.964392
+FPS: 55.5556
+Gawang Kanan: 2.02 m
+Precision: 0.964497
+FPS: 58.8235
+Gawang Kanan: 2.01 m
+Precision: 0.964602
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.964706
+FPS: 52.6316
+Gawang Kanan: 1.94 m
+Precision: 0.964809
+FPS: 55.5556
+Gawang Kanan: 1.90 m
+Precision: 0.964912
+FPS: 52.6316
+Gawang Kanan: 1.78 m
+Precision: 0.965015
+FPS: 52.6316
+Gawang Kanan: 1.80 m
+Precision: 0.965116
+FPS: 52.6316
+Gawang Kanan: 1.77 m
+Precision: 0.965217
+FPS: 52.6316
+Gawang Kanan: 1.84 m
+Precision: 0.965217
+FPS: 55.5556
+Gawang Kanan: 1.84 m
+Precision: 0.965318
+FPS: 62.5
+Gawang Kanan: 1.71 m
+Precision: 0.965418
+FPS: 55.5556
+Gawang Kanan: 1.81 m
+Precision: 0.965418
+FPS: 55.5556
+Gawang Kanan: 1.81 m
+Precision: 0.965517
+FPS: 50
+Gawang Kanan: 1.94 m
+Precision: 0.965616
+FPS: 52.6316
+Gawang Kanan: 2.07 m
+Precision: 0.965714
+FPS: 52.6316
+Gawang Kanan: 2.14 m
+Precision: 0.965812
+FPS: 50
+Gawang Kanan: 2.24 m
+Precision: 0.966006
+FPS: 41.6667
+Gawang Kanan: 2.13 m
+Precision: 0.966197
+FPS: 40
+Gawang Kanan: 2.01 m
+Precision: 0.966387
+FPS: 35.7143
+Gawang Kanan: 2.10 m
+Precision: 0.96648
+FPS: 52.6316
+Gawang Kanan: 2.01 m
+Precision: 0.966667
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.966759
+FPS: 45.4545
+Gawang Kanan: 2.06 m
+Precision: 0.966851
+FPS: 47.619
+Gawang Kanan: 2.00 m
+Precision: 0.967033
+FPS: 35.7143
+Gawang Kanan: 1.96 m
+Precision: 0.967213
+FPS: 40
+Gawang Kanan: 2.22 m
+Precision: 0.964674
+FPS: 47.619
+Gawang Kanan: 1.93 m
+Precision: 0.964865
+FPS: 45.4545
+Gawang Kanan: 2.00 m
+Precision: 0.96496
+FPS: 37.037
+Gawang Kanan: 1.99 m
+Precision: 0.96496
+FPS: 55.5556
+Gawang Kanan: 1.99 m
+Precision: 0.965054
+FPS: 45.4545
+Gawang Kanan: 2.02 m
+Precision: 0.965147
+FPS: 47.619
+Gawang Kanan: 2.01 m
+Precision: 0.965241
+FPS: 52.6316
+Gawang Kanan: 2.10 m
+Precision: 0.965333
+FPS: 47.619
+Gawang Kanan: 2.11 m
+Precision: 0.965426
+FPS: 62.5
+Gawang Kanan: 2.14 m
+Precision: 0.965517
+FPS: 55.5556
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 66.6667
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 62.5
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 47.619
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 83.3333
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 55.5556
+Gawang Kanan: 2.15 m
+Precision: 0.965517
+FPS: 50
+Gawang Kanan: 2.15 m
+Precision: 0.965608
+FPS: 50
+Gawang Kanan: 2.24 m
+Precision: 0.965699
+FPS: 52.6316
+Gawang Kanan: 2.19 m
+Precision: 0.965789
+FPS: 47.619
+Gawang Kanan: 2.27 m
+Precision: 0.965969
+FPS: 52.6316
+Gawang Kanan: 2.49 m
+Precision: 0.966146
+FPS: 58.8235
+Gawang Kanan: 2.50 m
+Precision: 0.966234
+FPS: 47.619
+Gawang Kanan: 2.15 m
+Precision: 0.966408
+FPS: 37.037
+Gawang Kanan: 2.33 m
+Precision: 0.966495
+FPS: 43.4783
+Gawang Kanan: 2.11 m
+Precision: 0.966581
+FPS: 50
+Gawang Kanan: 2.11 m
+Precision: 0.966752
+FPS: 45.4545
+Gawang Kanan: 2.26 m
+Precision: 0.966921
+FPS: 45.4545
+Gawang Kanan: 2.11 m
+Precision: 0.967089
+FPS: 37.037
+Gawang Kanan: 2.11 m
+Precision: 0.967172
+FPS: 45.4545
+Gawang Kanan: 2.10 m
+Precision: 0.967254
+FPS: 47.619
+Gawang Kanan: 2.05 m
+Precision: 0.964912
+FPS: 43.4783
+Gawang Kanan: 2.08 m
+Precision: 0.962594
+FPS: 50
+Gawang Kanan: 2.08 m
+Precision: 0.960298
+FPS: 43.4783
+Gawang Kanan: 2.08 m
+Precision: 0.960494
+FPS: 41.6667
+Gawang Kanan: 2.07 m
+Precision: 0.960591
+FPS: 38.4615
+Gawang Kanan: 2.07 m
+Precision: 0.960784
+FPS: 47.619
+Gawang Kanan: 2.46 m
+Precision: 0.96088
+FPS: 45.4545
+Gawang Kanan: 2.56 m
+Precision: 0.961071
+FPS: 47.619
+Gawang Kanan: 2.46 m
+Precision: 0.961259
+FPS: 45.4545
+Gawang Kanan: 2.16 m
+Precision: 0.961353
+FPS: 47.619
+Gawang Kanan: 2.36 m
+Precision: 0.961538
+FPS: 47.619
+Gawang Kanan: 2.04 m
+Precision: 0.961631
+FPS: 62.5
+Gawang Kanan: 2.04 m
+Precision: 0.961814
+FPS: 45.4545
+Gawang Kanan: 2.05 m
+Precision: 0.961995
+FPS: 43.4783
+Gawang Kanan: 2.49 m
+Precision: 0.962085
+FPS: 62.5
+Gawang Kanan: 2.18 m
+Precision: 0.962175
+FPS: 31.25
+Gawang Kanan: 2.18 m
+Precision: 0.962264
+FPS: 33.3333
+Gawang Kanan: 2.18 m
+Precision: 0.962353
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.962353
+FPS: 58.8235
+Gawang Kanan: 2.26 m
+Precision: 0.962353
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.962353
+FPS: 66.6667
+Gawang Kanan: 2.26 m
+Precision: 0.962353
+FPS: 62.5
+Gawang Kanan: 2.26 m
+Precision: 0.962441
+FPS: 58.8235
+Gawang Kanan: 2.25 m
+Precision: 0.962529
+FPS: 55.5556
+Gawang Kanan: 2.29 m
+Precision: 0.962617
+FPS: 58.8235
+Gawang Kanan: 2.26 m
+Precision: 0.962617
+FPS: 62.5
+Gawang Kanan: 2.26 m
+Precision: 0.962617
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.962704
+FPS: 50
+Gawang Kanan: 2.35 m
+Precision: 0.962791
+FPS: 66.6667
+Gawang Kanan: 2.39 m
+Precision: 0.962877
+FPS: 55.5556
+Gawang Kanan: 2.45 m
+Precision: 0.962963
+FPS: 66.6667
+Gawang Kanan: 2.46 m
+Precision: 0.963048
+FPS: 52.6316
+Gawang Kanan: 2.44 m
+Precision: 0.963134
+FPS: 62.5
+Gawang Kanan: 2.46 m
+Precision: 0.963218
+FPS: 62.5
+Gawang Kanan: 2.53 m
+Precision: 0.963303
+FPS: 50
+Gawang Kanan: 2.43 m
+Precision: 0.963387
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.963387
+FPS: 83.3333
+Gawang Kanan: 2.43 m
+Precision: 0.963387
+FPS: 55.5556
+Gawang Kanan: 2.43 m
+Precision: 0.963387
+FPS: 62.5
+Gawang Kanan: 2.43 m
+Precision: 0.96347
+FPS: 50
+Gawang Kanan: 2.26 m
+Precision: 0.963554
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.963636
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.963719
+FPS: 62.5
+Gawang Kanan: 2.10 m
+Precision: 0.963801
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.963883
+FPS: 52.6316
+Gawang Kanan: 2.07 m
+Precision: 0.963964
+FPS: 62.5
+Gawang Kanan: 2.02 m
+Precision: 0.964045
+FPS: 55.5556
+Gawang Kanan: 1.94 m
+Precision: 0.964126
+FPS: 50
+Gawang Kanan: 1.93 m
+Precision: 0.964206
+FPS: 58.8235
+Gawang Kanan: 1.88 m
+Precision: 0.964286
+FPS: 50
+Gawang Kanan: 1.85 m
+Precision: 0.964365
+FPS: 50
+Gawang Kanan: 1.80 m
+Precision: 0.964444
+FPS: 52.6316
+Gawang Kanan: 1.78 m
+Precision: 0.964523
+FPS: 52.6316
+Gawang Kanan: 1.74 m
+Precision: 0.964602
+FPS: 55.5556
+Gawang Kanan: 1.64 m
+Precision: 0.96468
+FPS: 52.6316
+Gawang Kanan: 1.75 m
+Precision: 0.964758
+FPS: 55.5556
+Gawang Kanan: 1.82 m
+Precision: 0.964835
+FPS: 52.6316
+Gawang Kanan: 1.87 m
+Precision: 0.964912
+FPS: 45.4545
+Gawang Kanan: 2.04 m
+Precision: 0.964989
+FPS: 58.8235
+Gawang Kanan: 2.22 m
+Precision: 0.964989
+FPS: 50
+Gawang Kanan: 2.22 m
+Precision: 0.965066
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.965142
+FPS: 58.8235
+Gawang Kanan: 2.38 m
+Precision: 0.965217
+FPS: 50
+Gawang Kanan: 2.33 m
+Precision: 0.965293
+FPS: 76.9231
+Gawang Kanan: 2.42 m
+Precision: 0.965293
+FPS: 71.4286
+Gawang Kanan: 2.42 m
+Precision: 0.965368
+FPS: 58.8235
+Gawang Kanan: 2.46 m
+Precision: 0.965443
+FPS: 58.8235
+Gawang Kanan: 2.41 m
+Precision: 0.965517
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.965517
+FPS: 58.8235
+Gawang Kanan: 2.43 m
+Precision: 0.965517
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.965591
+FPS: 66.6667
+Gawang Kanan: 2.29 m
+Precision: 0.965665
+FPS: 55.5556
+Gawang Kanan: 2.21 m
+Precision: 0.965739
+FPS: 45.4545
+Gawang Kanan: 2.15 m
+Precision: 0.965812
+FPS: 55.5556
+Gawang Kanan: 2.07 m
+Precision: 0.965885
+FPS: 62.5
+Gawang Kanan: 2.08 m
+Precision: 0.965957
+FPS: 52.6316
+Gawang Kanan: 2.03 m
+Precision: 0.96603
+FPS: 55.5556
+Gawang Kanan: 1.98 m
+Precision: 0.966102
+FPS: 50
+Gawang Kanan: 1.93 m
+Precision: 0.966173
+FPS: 52.6316
+Gawang Kanan: 2.00 m
+Precision: 0.966245
+FPS: 66.6667
+Gawang Kanan: 1.96 m
+Precision: 0.966316
+FPS: 62.5
+Gawang Kanan: 1.96 m
+Precision: 0.966387
+FPS: 55.5556
+Gawang Kanan: 2.00 m
+Precision: 0.966457
+FPS: 45.4545
+Gawang Kanan: 2.07 m
+Precision: 0.966527
+FPS: 43.4783
+Gawang Kanan: 2.30 m
+Precision: 0.966597
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.966667
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.966736
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.966736
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.966805
+FPS: 58.8235
+Gawang Kanan: 2.30 m
+Precision: 0.966874
+FPS: 55.5556
+Gawang Kanan: 2.25 m
+Precision: 0.966942
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.96701
+FPS: 50
+Gawang Kanan: 2.22 m
+Precision: 0.967078
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.967213
+FPS: 52.6316
+Gawang Kanan: 2.54 m
+Precision: 0.965306
+FPS: 40
+Gawang Kanan: 2.11 m
+Precision: 0.965447
+FPS: 43.4783
+Gawang Kanan: 2.12 m
+Precision: 0.965517
+FPS: 45.4545
+Gawang Kanan: 2.48 m
+Precision: 0.965657
+FPS: 41.6667
+Gawang Kanan: 2.14 m
+Precision: 0.965795
+FPS: 41.6667
+Gawang Kanan: 2.04 m
+Precision: 0.965932
+FPS: 45.4545
+Gawang Kanan: 2.11 m
+Precision: 0.966068
+FPS: 41.6667
+Gawang Kanan: 2.01 m
+Precision: 0.964215
+FPS: 40
+Gawang Kanan: 2.02 m
+Precision: 0.962376
+FPS: 43.4783
+Gawang Kanan: 2.02 m
+Precision: 0.962525
+FPS: 40
+Gawang Kanan: 1.98 m
+Precision: 0.962672
+FPS: 41.6667
+Gawang Kanan: 1.94 m
+Precision: 0.962818
+FPS: 45.4545
+Gawang Kanan: 1.92 m
+Precision: 0.962963
+FPS: 47.619
+Gawang Kanan: 1.92 m
+Precision: 0.963107
+FPS: 45.4545
+Gawang Kanan: 1.87 m
+Precision: 0.96325
+FPS: 45.4545
+Gawang Kanan: 1.91 m
+Precision: 0.963391
+FPS: 50
+Gawang Kanan: 2.18 m
+Precision: 0.961538
+FPS: 50
+Gawang Kanan: 1.94 m
+Precision: 0.961538
+FPS: 76.9231
+Gawang Kanan: 1.94 m
+Precision: 0.961612
+FPS: 62.5
+Gawang Kanan: 1.92 m
+Precision: 0.961686
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.961759
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.961832
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.961905
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.961905
+FPS: 66.6667
+Gawang Kanan: 1.93 m
+Precision: 0.961905
+FPS: 62.5
+Gawang Kanan: 1.93 m
+Precision: 0.961905
+FPS: 58.8235
+Gawang Kanan: 1.93 m
+Precision: 0.961977
+FPS: 58.8235
+Gawang Kanan: 2.03 m
+Precision: 0.962049
+FPS: 58.8235
+Gawang Kanan: 2.10 m
+Precision: 0.962121
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.962121
+FPS: 50
+Gawang Kanan: 2.14 m
+Precision: 0.962121
+FPS: 62.5
+Gawang Kanan: 2.14 m
+Precision: 0.962121
+FPS: 58.8235
+Gawang Kanan: 2.14 m
+Precision: 0.962193
+FPS: 58.8235
+Gawang Kanan: 2.25 m
+Precision: 0.962193
+FPS: 58.8235
+Gawang Kanan: 2.25 m
+Precision: 0.962264
+FPS: 83.3333
+Gawang Kanan: 2.29 m
+Precision: 0.962335
+FPS: 55.5556
+Gawang Kanan: 2.29 m
+Precision: 0.962406
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.962406
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.962406
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.962406
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.962477
+FPS: 50
+Gawang Kanan: 2.19 m
+Precision: 0.962547
+FPS: 50
+Gawang Kanan: 2.16 m
+Precision: 0.962617
+FPS: 50
+Gawang Kanan: 2.07 m
+Precision: 0.962756
+FPS: 47.619
+Gawang Kanan: 2.13 m
+Precision: 0.962825
+FPS: 62.5
+Gawang Kanan: 2.06 m
+Precision: 0.962894
+FPS: 52.6316
+Gawang Kanan: 1.85 m
+Precision: 0.961183
+FPS: 50
+Gawang Kanan: 1.93 m
+Precision: 0.959484
+FPS: 47.619
+Gawang Kanan: 1.88 m
+Precision: 0.959484
+FPS: 52.6316
+Gawang Kanan: 1.88 m
+Precision: 0.959559
+FPS: 52.6316
+Gawang Kanan: 1.71 m
+Precision: 0.959633
+FPS: 55.5556
+Gawang Kanan: 1.70 m
+Precision: 0.959781
+FPS: 50
+Gawang Kanan: 1.85 m
+Precision: 0.959927
+FPS: 55.5556
+Gawang Kanan: 1.89 m
+Precision: 0.960073
+FPS: 45.4545
+Gawang Kanan: 1.66 m
+Precision: 0.960217
+FPS: 50
+Gawang Kanan: 1.68 m
+Precision: 0.96036
+FPS: 45.4545
+Gawang Kanan: 1.71 m
+Precision: 0.960432
+FPS: 43.4783
+Gawang Kanan: 2.11 m
+Precision: 0.960503
+FPS: 55.5556
+Gawang Kanan: 2.07 m
+Precision: 0.960573
+FPS: 43.4783
+Gawang Kanan: 2.05 m
+Precision: 0.960714
+FPS: 45.4545
+Gawang Kanan: 1.79 m
+Precision: 0.960854
+FPS: 52.6316
+Gawang Kanan: 1.75 m
+Precision: 0.960993
+FPS: 45.4545
+Gawang Kanan: 1.75 m
+Precision: 0.961131
+FPS: 41.6667
+Gawang Kanan: 1.76 m
+Precision: 0.961268
+FPS: 45.4545
+Gawang Kanan: 1.80 m
+Precision: 0.961404
+FPS: 55.5556
+Gawang Kanan: 1.87 m
+Precision: 0.961538
+FPS: 43.4783
+Gawang Kanan: 1.92 m
+Precision: 0.961606
+FPS: 52.6316
+Gawang Kanan: 2.12 m
+Precision: 0.961672
+FPS: 50
+Gawang Kanan: 2.14 m
+Precision: 0.961672
+FPS: 62.5
+Gawang Kanan: 2.14 m
+Precision: 0.961739
+FPS: 50
+Gawang Kanan: 2.22 m
+Precision: 0.961806
+FPS: 50
+Gawang Kanan: 2.29 m
+Precision: 0.961872
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 52.6316
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 66.6667
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.961872
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.961938
+FPS: 58.8235
+Gawang Kanan: 2.41 m
+Precision: 0.961938
+FPS: 55.5556
+Gawang Kanan: 2.41 m
+Precision: 0.962003
+FPS: 62.5
+Gawang Kanan: 2.39 m
+Precision: 0.962069
+FPS: 76.9231
+Gawang Kanan: 2.33 m
+Precision: 0.962069
+FPS: 62.5
+Gawang Kanan: 2.33 m
+Precision: 0.962134
+FPS: 66.6667
+Gawang Kanan: 2.38 m
+Precision: 0.962134
+FPS: 58.8235
+Gawang Kanan: 2.38 m
+Precision: 0.962199
+FPS: 58.8235
+Gawang Kanan: 2.37 m
+Precision: 0.962264
+FPS: 76.9231
+Gawang Kanan: 2.38 m
+Precision: 0.962329
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.962393
+FPS: 62.5
+Gawang Kanan: 2.39 m
+Precision: 0.962457
+FPS: 66.6667
+Gawang Kanan: 2.38 m
+Precision: 0.962457
+FPS: 62.5
+Gawang Kanan: 2.38 m
+Precision: 0.962521
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.962585
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.962585
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.962649
+FPS: 62.5
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 58.8235
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 66.6667
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 55.5556
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 55.5556
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 55.5556
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 62.5
+Gawang Kanan: 2.36 m
+Precision: 0.962649
+FPS: 58.8235
+Gawang Kanan: 2.36 m
+Precision: 0.962712
+FPS: 62.5
+Gawang Kanan: 2.34 m
+Precision: 0.962775
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.962838
+FPS: 55.5556
+Gawang Kanan: 2.33 m
+Precision: 0.962838
+FPS: 62.5
+Gawang Kanan: 2.33 m
+Precision: 0.962838
+FPS: 58.8235
+Gawang Kanan: 2.33 m
+Precision: 0.962901
+FPS: 55.5556
+Gawang Kanan: 2.33 m
+Precision: 0.962901
+FPS: 66.6667
+Gawang Kanan: 2.33 m
+Precision: 0.962963
+FPS: 52.6316
+Gawang Kanan: 2.39 m
+Precision: 0.963025
+FPS: 71.4286
+Gawang Kanan: 2.38 m
+Precision: 0.963087
+FPS: 58.8235
+Gawang Kanan: 2.39 m
+Precision: 0.963149
+FPS: 76.9231
+Gawang Kanan: 2.28 m
+Precision: 0.963211
+FPS: 55.5556
+Gawang Kanan: 2.32 m
+Precision: 0.963272
+FPS: 58.8235
+Gawang Kanan: 2.36 m
+Precision: 0.963333
+FPS: 55.5556
+Gawang Kanan: 2.27 m
+Precision: 0.963394
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.963455
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.963455
+FPS: 66.6667
+Gawang Kanan: 2.29 m
+Precision: 0.963455
+FPS: 76.9231
+Gawang Kanan: 2.29 m
+Precision: 0.963455
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.963516
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.963576
+FPS: 62.5
+Gawang Kanan: 2.27 m
+Precision: 0.963636
+FPS: 62.5
+Gawang Kanan: 2.32 m
+Precision: 0.963696
+FPS: 52.6316
+Gawang Kanan: 2.27 m
+Precision: 0.963756
+FPS: 62.5
+Gawang Kanan: 2.25 m
+Precision: 0.963816
+FPS: 50
+Gawang Kanan: 2.30 m
+Precision: 0.963816
+FPS: 66.6667
+Gawang Kanan: 2.30 m
+Precision: 0.963816
+FPS: 71.4286
+Gawang Kanan: 2.30 m
+Precision: 0.963875
+FPS: 62.5
+Gawang Kanan: 2.37 m
+Precision: 0.963934
+FPS: 58.8235
+Gawang Kanan: 2.34 m
+Precision: 0.963993
+FPS: 62.5
+Gawang Kanan: 2.27 m
+Precision: 0.964052
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.964111
+FPS: 58.8235
+Gawang Kanan: 2.32 m
+Precision: 0.964169
+FPS: 45.4545
+Gawang Kanan: 2.30 m
+Precision: 0.964228
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.964286
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.964401
+FPS: 52.6316
+Gawang Kanan: 2.39 m
+Precision: 0.964459
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.964516
+FPS: 52.6316
+Gawang Kanan: 2.32 m
+Precision: 0.964516
+FPS: 66.6667
+Gawang Kanan: 2.32 m
+Precision: 0.96463
+FPS: 55.5556
+Gawang Kanan: 2.39 m
+Precision: 0.964687
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.964744
+FPS: 58.8235
+Gawang Kanan: 2.34 m
+Precision: 0.964744
+FPS: 71.4286
+Gawang Kanan: 2.34 m
+Precision: 0.9648
+FPS: 66.6667
+Gawang Kanan: 2.33 m
+Precision: 0.964856
+FPS: 55.5556
+Gawang Kanan: 2.43 m
+Precision: 0.964912
+FPS: 62.5
+Gawang Kanan: 2.32 m
+Precision: 0.964968
+FPS: 58.8235
+Gawang Kanan: 2.32 m
+Precision: 0.965024
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.965079
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.965079
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.965135
+FPS: 62.5
+Gawang Kanan: 2.37 m
+Precision: 0.96519
+FPS: 58.8235
+Gawang Kanan: 2.29 m
+Precision: 0.965245
+FPS: 66.6667
+Gawang Kanan: 2.27 m
+Precision: 0.9653
+FPS: 55.5556
+Gawang Kanan: 2.23 m
+Precision: 0.965354
+FPS: 52.6316
+Gawang Kanan: 2.23 m
+Precision: 0.965409
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.965463
+FPS: 52.6316
+Gawang Kanan: 2.20 m
+Precision: 0.965517
+FPS: 52.6316
+Gawang Kanan: 2.14 m
+Precision: 0.965571
+FPS: 58.8235
+Gawang Kanan: 2.09 m
+Precision: 0.965625
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.965679
+FPS: 55.5556
+Gawang Kanan: 2.11 m
+Precision: 0.965732
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.965839
+FPS: 52.6316
+Gawang Kanan: 2.34 m
+Precision: 0.965944
+FPS: 58.8235
+Gawang Kanan: 2.46 m
+Precision: 0.966049
+FPS: 45.4545
+Gawang Kanan: 2.60 m
+Precision: 0.966102
+FPS: 58.8235
+Gawang Kanan: 2.65 m
+Precision: 0.966154
+FPS: 58.8235
+Gawang Kanan: 2.53 m
+Precision: 0.966206
+FPS: 50
+Gawang Kanan: 2.67 m
+Precision: 0.966258
+FPS: 66.6667
+Gawang Kanan: 2.59 m
+Precision: 0.966309
+FPS: 58.8235
+Gawang Kanan: 2.56 m
+Precision: 0.966361
+FPS: 62.5
+Gawang Kanan: 2.67 m
+Precision: 0.966412
+FPS: 55.5556
+Gawang Kanan: 2.64 m
+Precision: 0.966463
+FPS: 58.8235
+Gawang Kanan: 2.49 m
+Precision: 0.966463
+FPS: 52.6316
+Gawang Kanan: 2.49 m
+Precision: 0.966514
+FPS: 58.8235
+Gawang Kanan: 2.50 m
+Precision: 0.966565
+FPS: 52.6316
+Gawang Kanan: 2.41 m
+Precision: 0.966616
+FPS: 55.5556
+Gawang Kanan: 2.23 m
+Precision: 0.966667
+FPS: 66.6667
+Gawang Kanan: 2.18 m
+Precision: 0.966717
+FPS: 45.4545
+Gawang Kanan: 2.15 m
+Precision: 0.966767
+FPS: 58.8235
+Gawang Kanan: 2.13 m
+Precision: 0.966817
+FPS: 55.5556
+Gawang Kanan: 2.10 m
+Precision: 0.966817
+FPS: 58.8235
+Gawang Kanan: 2.10 m
+Precision: 0.966867
+FPS: 50
+Gawang Kanan: 2.05 m
+Precision: 0.966967
+FPS: 45.4545
+Gawang Kanan: 2.19 m
+Precision: 0.967066
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.967164
+FPS: 47.619
+Gawang Kanan: 2.33 m
+Precision: 0.967262
+FPS: 52.6316
+Gawang Kanan: 2.46 m
+Precision: 0.967359
+FPS: 47.619
+Gawang Kanan: 2.51 m
+Precision: 0.967407
+FPS: 52.6316
+Gawang Kanan: 2.43 m
+Precision: 0.967456
+FPS: 58.8235
+Gawang Kanan: 2.38 m
+Precision: 0.967504
+FPS: 55.5556
+Gawang Kanan: 2.37 m
+Precision: 0.967552
+FPS: 55.5556
+Gawang Kanan: 2.27 m
+Precision: 0.967599
+FPS: 55.5556
+Gawang Kanan: 2.35 m
+Precision: 0.967647
+FPS: 58.8235
+Gawang Kanan: 2.36 m
+Precision: 0.967647
+FPS: 58.8235
+Gawang Kanan: 2.36 m
+Precision: 0.967695
+FPS: 58.8235
+Gawang Kanan: 2.24 m
+Precision: 0.967742
+FPS: 71.4286
+Gawang Kanan: 2.23 m
+Precision: 0.967742
+FPS: 58.8235
+Gawang Kanan: 2.23 m
+Precision: 0.967789
+FPS: 62.5
+Gawang Kanan: 2.11 m
+Precision: 0.967836
+FPS: 62.5
+Gawang Kanan: 2.08 m
+Precision: 0.967883
+FPS: 62.5
+Gawang Kanan: 2.09 m
+Precision: 0.96793
+FPS: 52.6316
+Gawang Kanan: 2.02 m
+Precision: 0.967977
+FPS: 58.8235
+Gawang Kanan: 1.99 m
+Precision: 0.968023
+FPS: 62.5
+Gawang Kanan: 2.07 m
+Precision: 0.96807
+FPS: 52.6316
+Gawang Kanan: 1.96 m
+Precision: 0.968116
+FPS: 55.5556
+Gawang Kanan: 2.14 m
+Precision: 0.968162
+FPS: 62.5
+Gawang Kanan: 2.22 m
+Precision: 0.968208
+FPS: 58.8235
+Gawang Kanan: 2.20 m
+Precision: 0.968208
+FPS: 50
+Gawang Kanan: 2.20 m
+Precision: 0.968254
+FPS: 50
+Gawang Kanan: 2.34 m
+Precision: 0.9683
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.968345
+FPS: 52.6316
+Gawang Kanan: 2.29 m
+Precision: 0.968436
+FPS: 47.619
+Gawang Kanan: 2.45 m
+Precision: 0.968481
+FPS: 37.037
+Gawang Kanan: 2.46 m
+Precision: 0.968526
+FPS: 52.6316
+Gawang Kanan: 2.39 m
+Precision: 0.968571
+FPS: 58.8235
+Gawang Kanan: 2.40 m
+Precision: 0.968616
+FPS: 55.5556
+Gawang Kanan: 2.36 m
+Precision: 0.968661
+FPS: 62.5
+Gawang Kanan: 2.37 m
+Precision: 0.968706
+FPS: 50
+Gawang Kanan: 2.35 m
+Precision: 0.96875
+FPS: 47.619
+Gawang Kanan: 2.29 m
+Precision: 0.968794
+FPS: 52.6316
+Gawang Kanan: 2.32 m
+Precision: 0.968839
+FPS: 50
+Gawang Kanan: 2.32 m
+Precision: 0.968839
+FPS: 66.6667
+Gawang Kanan: 2.32 m
+Precision: 0.968883
+FPS: 52.6316
+Gawang Kanan: 2.31 m
+Precision: 0.96897
+FPS: 58.8235
+Gawang Kanan: 2.38 m
+Precision: 0.969014
+FPS: 62.5
+Gawang Kanan: 2.27 m
+Precision: 0.969058
+FPS: 66.6667
+Gawang Kanan: 2.38 m
+Precision: 0.969101
+FPS: 52.6316
+Gawang Kanan: 2.35 m
+Precision: 0.969144
+FPS: 47.619
+Gawang Kanan: 2.30 m
+Precision: 0.969188
+FPS: 62.5
+Gawang Kanan: 2.29 m
+Precision: 0.969231
+FPS: 58.8235
+Gawang Kanan: 2.34 m
+Precision: 0.969274
+FPS: 52.6316
+Gawang Kanan: 2.38 m
+Precision: 0.969317
+FPS: 52.6316
+Gawang Kanan: 2.31 m
+Precision: 0.969359
+FPS: 50
+Gawang Kanan: 2.24 m
+Precision: 0.969402
+FPS: 55.5556
+Gawang Kanan: 2.24 m
+Precision: 0.969444
+FPS: 71.4286
+Gawang Kanan: 2.32 m
+Precision: 0.969487
+FPS: 62.5
+Gawang Kanan: 2.31 m
+Precision: 0.969529
+FPS: 55.5556
+Gawang Kanan: 2.38 m
+Precision: 0.969613
+FPS: 52.6316
+Gawang Kanan: 2.26 m
+Precision: 0.969655
+FPS: 55.5556
+Gawang Kanan: 2.39 m
+Precision: 0.969739
+FPS: 58.8235
+Gawang Kanan: 2.57 m
+Precision: 0.969822
+FPS: 47.619
+Gawang Kanan: 2.43 m
+Precision: 0.969904
+FPS: 43.4783
+Gawang Kanan: 2.40 m
+Precision: 0.969945
+FPS: 47.619
+Gawang Kanan: 2.45 m
+Precision: 0.969986
+FPS: 47.619
+Gawang Kanan: 2.45 m
+Precision: 0.970027
+FPS: 52.6316
+Gawang Kanan: 2.45 m
+Precision: 0.970068
+FPS: 50
+Gawang Kanan: 2.22 m
+Precision: 0.970109
+FPS: 43.4783
+Gawang Kanan: 2.36 m
+Precision: 0.97019
+FPS: 50
+Gawang Kanan: 2.38 m
+Precision: 0.97023
+FPS: 50
+Gawang Kanan: 2.38 m
+Precision: 0.968961
+FPS: 55.5556
+Gawang Kanan: 2.27 m
+Precision: 0.969003
+FPS: 50
+Gawang Kanan: 2.27 m
+Precision: 0.969086
+FPS: 58.8235
+Gawang Kanan: 2.31 m
+Precision: 0.969169
+FPS: 52.6316
+Gawang Kanan: 2.31 m
+Precision: 0.96921
+FPS: 58.8235
+Gawang Kanan: 2.31 m
+Precision: 0.969251
+FPS: 52.6316
+Gawang Kanan: 2.30 m
+Precision: 0.969292
+FPS: 43.4783
+Gawang Kanan: 2.23 m
+Precision: 0.969333
+FPS: 47.619
+Gawang Kanan: 2.28 m
+Precision: 0.969374
+FPS: 55.5556
+Gawang Kanan: 2.27 m
+Precision: 0.969456
+FPS: 62.5
+Gawang Kanan: 2.31 m
+Precision: 0.969456
+FPS: 66.6667
+Gawang Kanan: 2.31 m
+Precision: 0.969496
+FPS: 55.5556
+Gawang Kanan: 2.24 m
+Precision: 0.969536
+FPS: 66.6667
+Gawang Kanan: 2.27 m
+Precision: 0.969577
+FPS: 66.6667
+Gawang Kanan: 2.28 m
+Precision: 0.969617
+FPS: 55.5556
+Gawang Kanan: 2.34 m
+Precision: 0.969657
+FPS: 58.8235
+Gawang Kanan: 2.33 m
+Precision: 0.969697
+FPS: 58.8235
+Gawang Kanan: 2.40 m
+Precision: 0.969737
+FPS: 45.4545
+Gawang Kanan: 2.36 m
+Precision: 0.969816
+FPS: 45.4545
+Gawang Kanan: 2.57 m
+Precision: 0.969856
+FPS: 47.619
+Gawang Kanan: 2.40 m
+Precision: 0.969895
+FPS: 50
+Gawang Kanan: 2.33 m
+Precision: 0.969935
+FPS: 58.8235
+Gawang Kanan: 2.44 m
+Precision: 0.969974
+FPS: 55.5556
+Gawang Kanan: 2.51 m
+Precision: 0.969974
+FPS: 45.4545
+Gawang Kanan: 2.51 m
+Precision: 0.970013
+FPS: 55.5556
+Gawang Kanan: 2.65 m
+Precision: 0.970052
+FPS: 66.6667
+Gawang Kanan: 2.56 m
+Precision: 0.970091
+FPS: 50
+Gawang Kanan: 2.58 m
+Precision: 0.97013
+FPS: 55.5556
+Gawang Kanan: 2.69 m
+Precision: 0.970169
+FPS: 52.6316
+Gawang Kanan: 2.73 m
+Precision: 0.970207
+FPS: 52.6316
+Gawang Kanan: 2.64 m
+Precision: 0.970246
+FPS: 55.5556
+Gawang Kanan: 2.67 m
+Precision: 0.970284
+FPS: 52.6316
+Gawang Kanan: 2.62 m
+Precision: 0.970323
+FPS: 47.619
+Gawang Kanan: 2.62 m
+Precision: 0.970361
+FPS: 45.4545
+Gawang Kanan: 2.53 m
+Precision: 0.970399
+FPS: 52.6316
+Gawang Kanan: 2.41 m
+Precision: 0.970399
+FPS: 52.6316
+Gawang Kanan: 2.41 m
+Precision: 0.970437
+FPS: 52.6316
+Gawang Kanan: 2.16 m
+Precision: 0.970475
+FPS: 52.6316
+Gawang Kanan: 2.03 m
+Precision: 0.970513
+FPS: 45.4545
+Gawang Kanan: 2.09 m
+Precision: 0.970551
+FPS: 45.4545
+Gawang Kanan: 2.01 m
+Precision: 0.970588
+FPS: 58.8235
+Gawang Kanan: 1.86 m
+Precision: 0.970588
+FPS: 55.5556
+Gawang Kanan: 1.86 m
+Precision: 0.970626
+FPS: 47.619
+Gawang Kanan: 1.91 m
+Precision: 0.970663
+FPS: 52.6316
+Gawang Kanan: 1.76 m
+Precision: 0.970701
+FPS: 52.6316
+Gawang Kanan: 1.84 m
+Precision: 0.970738
+FPS: 47.619
+Gawang Kanan: 1.84 m
+Precision: 0.970775
+FPS: 62.5
+Gawang Kanan: 1.89 m
+Precision: 0.970812
+FPS: 62.5
+Gawang Kanan: 2.03 m
+Precision: 0.970849
+FPS: 45.4545
+Gawang Kanan: 1.98 m
+Precision: 0.970886
+FPS: 43.4783
+Gawang Kanan: 2.09 m
+Precision: 0.970923
+FPS: 50
+Gawang Kanan: 2.09 m
+Precision: 0.97096
+FPS: 47.619
+Gawang Kanan: 2.24 m
+Precision: 0.970996
+FPS: 55.5556
+Gawang Kanan: 2.26 m
+Precision: 0.971033
+FPS: 55.5556
+Gawang Kanan: 2.20 m
+Precision: 0.971069
+FPS: 71.4286
+Gawang Kanan: 2.10 m
+Precision: 0.971069
+FPS: 47.619
+Gawang Kanan: 2.10 m
+Precision: 0.971069
+FPS: 58.8235
+Gawang Kanan: 2.10 m
+Precision: 0.971106
+FPS: 50
+Gawang Kanan: 2.16 m
+Precision: 0.971106
+FPS: 45.4545
+Gawang Kanan: 2.16 m
+Precision: 0.971106
+FPS: 58.8235
+Gawang Kanan: 2.16 m
+Precision: 0.971106
+FPS: 66.6667
+Gawang Kanan: 2.16 m
+Precision: 0.971142
+FPS: 55.5556
+Gawang Kanan: 2.05 m
+Precision: 0.971142
+FPS: 62.5
+Gawang Kanan: 2.05 m
+Precision: 0.971142
+FPS: 52.6316
+Gawang Kanan: 2.05 m
+Precision: 0.971178
+FPS: 50
+Gawang Kanan: 2.06 m
+Precision: 0.971178
+FPS: 58.8235
